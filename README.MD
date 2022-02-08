@@ -13,7 +13,8 @@
 
 - compile the project with ```tsc``` to generate the **dist** dir
 
-- type ```$docker-compose up``` to load the mock environment. 
+- type: 
+```$docker-compose up``` to load the mock environment. 
 
 #
 
